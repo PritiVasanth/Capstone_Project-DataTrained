@@ -1,0 +1,13 @@
+The data provided is based on the Census of India conducted in 2001 and 2011. You can verify and explore more detailed information from the official Census of India website. Here are the references:
+https://data.gov.in/search?title=population Population
+Census of India Official Website: https://censusindia.gov.in
+Office of the Registrar General & Census Commissioner, India: https://censusindia.gov.in/2011-common/aboutus.html  
+India Map - Government of India: https://www.india.gov.in/india-glance/india-map
+Geographical Information - Ministry of Home Affairs: https://www.mha.gov.in
+Data Provided to us: https://data.world/rajanand/crime-in-india
+
+Tech Stack used to merge the data :- 
+Microsoft Excel 365
+Unique Function is used to find the states in 2nd sheets of all the excel data provided . Sortby function used to arrange in Alphabetical order. Sumif function used to sum all the rows of districts to get the total of the particular states. 
+Finally file is saved into Jupiter in csv format. 
+
